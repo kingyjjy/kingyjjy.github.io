@@ -2,13 +2,13 @@
 layout: default
 modal-id: 7
 date: 2024-04-01
-img: weatherappthumb.png
+img: pofolthumbnail/weatherappthumb.png
 alt: image-alt
 project-date: Agust 2023
 client: Start Bootstrap
 category: Web Development
 description: openweathermap의 open api를 활용하여 만든 날씨 app입니다. 
----
+
 # :sunny: weather app project :cloud:
 ### :globe_with_meridians:language:globe_with_meridians:
 - HTML5
@@ -31,3 +31,4 @@ openweathermap에서 가져온 api로 지역별 날씨정보를 받아와서 적
 - [KingYJJY 깃허브](https://github.com/kingyjjy/weather-app "https:github.com/kingyjjy/weather-app")
 
 
+---
