@@ -2,13 +2,13 @@
 layout: default
 modal-id: 7
 date: 2024-04-01
-img: pofolthumbnail/weatherappthumb.png
+img: /pofolthumbnail/weatherappthumb.png
 alt: image-alt
 project-date: Agust 2023
 client: Start Bootstrap
 category: Web Development
 description: openweathermap의 open api를 활용하여 만든 날씨 app입니다. 
-
+---
 # :sunny: weather app project :cloud:
 ### :globe_with_meridians:language:globe_with_meridians:
 - HTML5
