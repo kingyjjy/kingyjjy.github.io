@@ -30,6 +30,7 @@ description:
 
     원하는 지역으로 검색하면 해당지역 현재 날씨정보와 요일별, 시간별 날씨정보를 얻을 수 있습니다. 
 
+  - **주요기능** : <span style="color:black">지역별 날씨정보 확인 가능</span>
 ### 💻 실행화면 💻
 <img src="../img/project/weatherapp/1.png" width="250" height="400">  
 <img src="../img/project/weatherapp/2.png" width="250" height="400"> 
