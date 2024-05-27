@@ -50,7 +50,7 @@ description:
 <img src="../img/project/hind/first.png" width="600" height="550">  
 <img src="../img/project/hind/main.png" width="600" height="1550">  
 <img src="../img/project/hind/login.png" width="600" height="750">  
-<img src="../img/project/hind/signup.png" width="600" height=650">  
+<img src="../img/project/hind/signup.png" width="600" height="650">  
 <img src="../img/project/hind/notlogin.png" width="600" height="550">  
 <img src="../img/project/hind/search.png" width="600" height="850"> 
 <img src="../img/project/hind/sidenav.png" width="600" height="550">     
