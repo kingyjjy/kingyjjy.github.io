@@ -11,7 +11,7 @@ description:
 ---
 
 ### 📌 코드링크 
- [KingYJJY 깃허브](아직 업로드 안함)
+ [KingYJJY 깃허브](https://github.com/kingyjjy/memoapp "https://github.com/kingyjjy/memoapp")
 
 <br><br/>
 
@@ -37,7 +37,13 @@ description:
 
 ### 💻 실행화면 💻
 <img src="../img/project/memoapp/첫화면.png" width="250" height="550">  
- 
+<img src="../img/project/memoapp/home.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/write.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/memo.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/morepost.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/edit.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/editcomplete.PNG" width="250" height="550">  
+<img src="../img/project/memoapp/delete.PNG" width="250" height="550">  
 
 
 ---
