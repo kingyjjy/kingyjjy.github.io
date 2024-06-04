@@ -1,32 +1,17 @@
-Freelancer Jekyll theme  
-=========================
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeonji%20Github!&fontSize=90&fontColor=#333333)
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+## 📢소개📢
+안녕하세요 전자공학과를 졸업한 <b>김연지</b> 입니다.<br/>
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+깃블로그로 포트폴리오를 만들었습니다.<br/>
+원본은 jekyll의 Freelancer theme을 사용했습니다.<br/>
 
----
-```
+2023.07~ 현재까지의 프로젝트를 포트폴리오에 담아보았습니다.<br/>
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## 🔎How to🔎
+> 도메인 : https://kingyjjy.github.io/
+<br/><br/>
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## 💻screen shot💻
+![pf](https://github.com/kingyjjy/react-practice-useState/assets/141803642/c30837cb-9671-447a-9f3e-d7c520915a60)
