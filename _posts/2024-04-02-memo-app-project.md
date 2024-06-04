@@ -26,7 +26,7 @@ description:
   <br><br/>
   
 ### 📋 설명 📋
- **주요기능** : <span style="color:black">아직미완성</span>
+ **주요기능** : <span style="color:black">메모 crud기능</span>
 
     reactnative로 만는 메모 app입니다.
 
